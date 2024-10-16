@@ -1,7 +1,6 @@
 # Algorithm-Design-and-Analysis-Implementations
 # Creating the README.md file content based on the provided structure
 
-content = """
 # Algorithm Design and Analysis Implementations
 
 This repository contains the implementation of various data structures and algorithms as part of the **Design and Analysis of Algorithms** course. The goal of this project is to provide efficient solutions to fundamental problems using C-style fixed-size arrays and demonstrate the application of algorithms like QuickSort and data structures such as Stack, Queue, and Singly Linked List.
