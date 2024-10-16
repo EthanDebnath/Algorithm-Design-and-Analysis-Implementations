@@ -1,12 +1,14 @@
 # Algorithm-Design-and-Analysis-Implementations
-# Creating the README.md file content based on the provided structure
 
-# Algorithm Design and Analysis Implementations
+# Hands On 8
+Tasks:
 
-This repository contains the implementation of various data structures and algorithms as part of the **Design and Analysis of Algorithms** course. The goal of this project is to provide efficient solutions to fundamental problems using C-style fixed-size arrays and demonstrate the application of algorithms like QuickSort and data structures such as Stack, Queue, and Singly Linked List.
+1. Leverage your implementation of quicksort to implement the ith order statistic. Demonstrate it's working via an example. Upload your code to github.
+
+2. Implement and upload your source code to github for: stack, queue, and singly linked list. Make sure to implement the same functionality (api/interface) as the ones from the book.  *Restriction*: Use fixed sized arrays (C style arrays) and assume only integers (C style int) for the data to store.
 
 ## Table of Contents
-- [Project Overview](#project-overview)
+- [Overview](#overview)
 - [Implemented Features](#implemented-features)
   - [1. ith Order Statistic using QuickSort](#1-ith-order-statistic-using-quicksort)
   - [2. Stack](#2-stack)
@@ -17,7 +19,7 @@ This repository contains the implementation of various data structures and algor
 - [Contributing](#contributing)
 - [License](#license)
 
-## Project Overview
+## Overview
 
 This project includes the implementation of key data structures and algorithms, particularly focusing on:
 
